@@ -14,6 +14,8 @@ The goal of this project is to build, optimize, and contrast different methods o
 
 1. [build_dataset_nb](https://github.com/christianspybrook/movie_text_topic_modeling/tree/master/build_dataset)
 : Notebook containing the code I used to assemble the movie tagline text data.
+2. [lda_model_nb](https://github.com/christianspybrook/movie_text_topic_modeling/tree/master/topic_models/lda_model)
+: Notebook containing the code I used to build an LDA model. (working)
 
  In Progress...
  	updated as required. 
