@@ -12,7 +12,7 @@ The goal of this project is to build, optimize, and contrast different methods o
 
  Project Workflow:
 
-1. [build_dataset_nb](https://github.com/christianspybrook/lstm_sentiment_analysis/tree/master/lstm_model_exploration/lstm_model_exploration_nb)
+1. [build_dataset_nb](https://github.com/christianspybrook/movie_text_topic_modeling/tree/master/build_dataset)
 : Notebook containing the code I used to assemble the movie tagline text data.
 
  In Progress...
